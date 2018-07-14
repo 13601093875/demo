@@ -12,3 +12,4 @@ print cmp("1000", "2")
 print cmp(20, 1)  # -1 0 1
 c = filter(lambda x: x * x != 4, [1, 2, 3, 4])
 print c
+
